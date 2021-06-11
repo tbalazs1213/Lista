@@ -1,1 +1,3 @@
 # Lista
+
+Lista letrehozasa manualisan.
